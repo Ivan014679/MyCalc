@@ -1,0 +1,14 @@
+C:\Users\Ivan\source\repos\MyCalc\MyCalc\bin\Debug\netstandard2.0\MyCalc.deps.json
+C:\Users\Ivan\source\repos\MyCalc\MyCalc\bin\Debug\netstandard2.0\MyCalc.dll
+C:\Users\Ivan\source\repos\MyCalc\MyCalc\bin\Debug\netstandard2.0\ref\MyCalc.dll
+C:\Users\Ivan\source\repos\MyCalc\MyCalc\bin\Debug\netstandard2.0\MyCalc.pdb
+C:\Users\Ivan\source\repos\MyCalc\MyCalc\obj\Debug\netstandard2.0\MyCalc.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\MyCalc\MyCalc\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ivan\source\repos\MyCalc\MyCalc\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ivan\source\repos\MyCalc\MyCalc\obj\Debug\netstandard2.0\MyCalc.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\MyCalc\MyCalc\obj\Debug\netstandard2.0\MyCalc.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\MyCalc\MyCalc\obj\Debug\netstandard2.0\MyCalc.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\MyCalc\MyCalc\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Ivan\source\repos\MyCalc\MyCalc\obj\Debug\netstandard2.0\MyCalc.dll
+C:\Users\Ivan\source\repos\MyCalc\MyCalc\obj\Debug\netstandard2.0\ref\MyCalc.dll
+C:\Users\Ivan\source\repos\MyCalc\MyCalc\obj\Debug\netstandard2.0\MyCalc.pdb

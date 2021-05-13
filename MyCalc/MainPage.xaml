@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyCalc.MainPage">
+
+    <FlexLayout Direction="Column" >
+        <Frame BackgroundColor="Orange">
+            <Label Text="MyCalc" FontSize="30" FontAttributes="Bold" TextColor="White" HorizontalOptions="Start" />
+        </Frame>
+
+        <StackLayout Orientation="Vertical" Padding="10,0,10,0">
+            <Label Padding="0,20,0,0" Text="First number" />
+            <Entry x:Name="num1"/>
+
+            <Label Padding="0,20,0,0" Text="Secound number" />
+            <Entry x:Name="num2"/>
+
+            <Picker Title="Select a item" FontAttributes="Italic" FontSize="24" x:Name="oplist" />
+
+            <Button Text="Get Result" TextColor="White" BackgroundColor="Red" Clicked="OnButtonClicked" />
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal">
+            <Label Text="0" FontSize="Header" FontAttributes="Bold" x:Name="result" HorizontalOptions="Center" VerticalOptions="Center" />
+        </StackLayout>
+    </FlexLayout>
+
+</ContentPage>
